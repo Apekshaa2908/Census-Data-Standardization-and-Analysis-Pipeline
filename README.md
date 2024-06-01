@@ -39,4 +39,4 @@ Data should be fetched from the mongoDB and to be uploaded to a relational datab
 Using mysql run the given task indivually and display the output on streamlit
 
 # RESULTS: 
-The final results are displayed in streamlit
+Understanding how to clean, process, and analyze data and use the necessary tools and libraries to display the output
